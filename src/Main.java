@@ -64,11 +64,11 @@ public class Main {
 //        Hufflepuff.compareStudents(justin, zachariah);
 
 //        System.out.println(harry.getMagicPower());
-//        harry.studentInfo();
-//        ron.studentInfo();
+        harry.studentInfo();
+        ron.studentInfo();
 //        hermione.studentInfo();
 //        System.out.println();
-//        draco.studentInfo();
+        draco.studentInfo();
 //        graham.studentInfo();
 //        goyle.studentInfo();
 //        System.out.println();
